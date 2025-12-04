@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      conquistas jogo_0: -6834805793680837842
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

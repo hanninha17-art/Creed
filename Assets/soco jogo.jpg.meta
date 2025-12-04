@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      soco jogo_0: -6403484982204601334
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

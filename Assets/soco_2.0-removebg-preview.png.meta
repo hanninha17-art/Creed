@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      soco_2.0-removebg-preview_0: 6291396604821987516
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
