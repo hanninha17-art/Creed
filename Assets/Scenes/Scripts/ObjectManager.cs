@@ -20,6 +20,11 @@ public class ObjectManager : MonoBehaviour
 
      [SerializeField] Timer meuTimer;
 
+     void Start ()
+        {
+            clickCount = 0;
+        }
+
 
     // Método para clique no objeto principal
     void OnMouseDown()
